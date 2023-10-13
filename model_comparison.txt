@@ -1,0 +1,2 @@
+When comparing  ('en_core_web_md') and ('en_core_web_sm').
+We notice that the "_m" model gets a higher score because it is trained on a larger data set as compared to "_sm" model. 
